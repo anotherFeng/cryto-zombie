@@ -13,3 +13,18 @@ VARIABLE RULES:
   - Must start with a letter or an underscore
   - Can have numbers but can not start with one
 """
+
+x = 1
+y = 2.5
+name = 'Brad'
+is_cool = True
+
+print(x)
+
+# Basic Math
+a = x + y
+print(a)
+
+
+x = str(x)
+print(type(x))
